@@ -1,0 +1,9 @@
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\bin\Debug\netstandard2.0\HeightI.Core.deps.json
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\bin\Debug\netstandard2.0\HeightI.Core.dll
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\bin\Debug\netstandard2.0\HeightI.Core.pdb
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.csprojAssemblyReference.cache
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.AssemblyInfoInputs.cache
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.AssemblyInfo.cs
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.csproj.CoreCompileInputs.cache
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.dll
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Core\obj\Debug\netstandard2.0\HeightI.Core.pdb

@@ -1,0 +1,16 @@
+POST https://localhost:5001/Empresa
+Content-Type: application/json
+
+{
+    "nomEmpresa": "HB2",
+    "password":"223"
+}
+
+###
+POST https://localhost:5001/Empresa/HB2&223
+
+###
+GET https://localhost:5001/Usuario/Empresa/60e635c485278dfa6191f1a2
+
+###
+POST https://localhost:5001/Usuario

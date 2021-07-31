@@ -1,0 +1,12 @@
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\bin\Debug\netstandard2.0\HeightI.Infraestructure.deps.json
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\bin\Debug\netstandard2.0\HeightI.Infraestructure.dll
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\bin\Debug\netstandard2.0\HeightI.Infraestructure.pdb
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.csprojAssemblyReference.cache
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.AssemblyInfo.cs
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.dll
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.pdb
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\bin\Debug\netstandard2.0\HeightI.Core.dll
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\bin\Debug\netstandard2.0\HeightI.Core.pdb
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.csproj.CopyComplete
+C:\Users\enrik\Desktop\TrabajoF\HeightI\HeightI.Infraestructure\obj\Debug\netstandard2.0\HeightI.Infraestructure.csproj.CoreCompileInputs.cache

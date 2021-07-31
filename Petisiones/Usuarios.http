@@ -1,0 +1,44 @@
+POST https://localhost:5001/Usuario
+Content-Type: application/json
+
+{
+    "nompersona": "FF",
+    "altura":"20202",
+    "idEmpresa": "60e635c485278dfa6191f1a2"
+}
+
+
+
+//Traer usuarios por empresa
+###
+GET https://localhost:5001/Usuario/Empresa/60e635c485278dfa6191f1a2
+
+
+//Traer usuario
+###
+GET  https://localhost:5001/Usuario/Empresa/60e635c485278dfa6191f1a2
+
+
+
+//actualizar usuario
+###
+PUT  https://localhost:5001/Usuario
+Content-Type: application/json
+
+{
+    "id": "60e6365c85278dfa6191f1a3",
+    "nompersona": "Frank",
+    "altura":"1234567889789855",
+    "idEmpresa": "60e635c485278dfa6191f1a2"
+}
+
+
+//Borrado
+###
+DELETE   https://localhost:5001/Usuario/60e6365c85278dfa6191f1a3
+
+
+//modelos -controladores - peticiones - vistas - importar api
+
+###
+GET  https://localhost:5001/Usuario/altura
